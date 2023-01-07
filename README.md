@@ -1,11 +1,14 @@
 # Sorting Visualizer
 
-A webpage that shows the logic behind common sorting algorithms such as merge sort, quick sort, bubble sort and insertion sort. 
+A webpage that shows the logic behind common sorting algorithms. 
 Built with HTML, CSS. Live site: 
 
 ## Algorithms included on this page:
 
-* In the project directory, you can run:
+* Merge Sort
+* Quick Sort
+* Bubble Sort
+* Insertion Sort
 
 ### `npm start`
 
