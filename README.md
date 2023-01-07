@@ -1,10 +1,11 @@
 # Sorting Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A webpage that shows the logic behind common sorting algorithms such as merge sort, quick sort, bubble sort and insertion sort. 
+Built with HTML, CSS. Live site: 
 
-## Available Scripts
+## Algorithms included on this page:
 
-In the project directory, you can run:
+* In the project directory, you can run:
 
 ### `npm start`
 
